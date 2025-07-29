@@ -1,12 +1,12 @@
-# Hi, I'm [Your Name]
+# Hi, I'm José Lucas!
 
 ### A Data Scientist specializing in Customer Retention & Analytics for SaaS Businesses.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/jose-lucas-ferreira-lima/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:lucasferlima8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -15,11 +15,11 @@
 
 ### 👨‍💻 About Me
 
-I'm a Data Scientist with a background in Statistics and a passion for transforming data into tangible business value. My main focus is within the **Customer Success** domain, where I enjoy building models and analyses that help SaaS companies understand their customers, reduce churn, and identify growth opportunities.
+I'm a Data Scientist with a background in Computer Science and a passion for transforming data into tangible business value. My main focus is within the **Customer Experience** domain, where I enjoy building models and analyses that help SaaS companies understand their customers, reduce churn, and identify growth opportunities.
 
-- 🔭 I’m currently working on a project to model **Customer Health Scores** based on product usage patterns.
-- 🌱 I’m currently learning more about **MLOps** to better deploy and monitor models in production.
-- 💬 Ask me about **churn prediction**, **LTV modeling**, or anything related to **data in a CS Ops context**.
+- 🔭 I’m currently working on a project to predict **Customer Churn** based on product usage and relationships patterns.
+- 🌱 I’m currently learning more about **Machine Learning and A/B Testing** to create predictive analysis and test them in production.
+- 💬 Ask me about **churn prediction**, **LTV modeling**, or anything related to **data in a Customer Experience context**.
 - 📫 How to reach me: Check out my links above!
 
 ---
@@ -42,11 +42,11 @@ I'm a Data Scientist with a background in Statistics and a passion for transform
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   </a>
-  <a href="https://aws.amazon.com/sagemaker/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="SageMaker"/>
+  <a href="https://www.r-project.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   </a>
-  <a href="https://looker.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker"/>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   </a>
 </p>
 
@@ -65,6 +65,6 @@ I'm a Data Scientist with a background in Statistics and a passion for transform
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&rank_icon=github" alt="Your GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zarkuslol&show_icons=true&theme=radical&rank_icon=github" alt="Your GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarkuslol&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
